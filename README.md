@@ -18,8 +18,5 @@ If both players choose the same shape, the game is a tie, and it's common for pl
 "Stone, Paper, Scissors" is often used as a quick and lighthearted decision-making method, and its simplicity makes it<br>
 popular for settling disputes or making choices in a playful manner.
 
-# Screenshot
-![Screenshot 2024-01-01 220620](https://github.com/Varunyadavgithub/Stone-Papaer-Scissor/assets/134674472/a7b3390b-ab9b-471a-94a0-595e999cd07f) <br><br>
-![Phone_Screen](https://github.com/Varunyadavgithub/Stone-Papaer-Scissor/assets/134674472/4ac52289-5c19-4c9d-bb15-47f5916fc339)
 # Demo
 https://github.com/Varunyadavgithub/Stone-Papaer-Scissor/assets/134674472/6e1ba84a-d09b-46f4-908d-60b393504027
