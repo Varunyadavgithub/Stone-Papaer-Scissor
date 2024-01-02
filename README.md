@@ -18,5 +18,18 @@ If both players choose the same shape, the game is a tie, and it's common for pl
 "Stone, Paper, Scissors" is often used as a quick and lighthearted decision-making method, and its simplicity makes it<br>
 popular for settling disputes or making choices in a playful manner.
 
+𝐆𝐚𝐦𝐞 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬:
+
+𝐄𝐥𝐞𝐦𝐞𝐧𝐭𝐬: Stone, Paper, and Scissors.<br>
+𝐈𝐧𝐭𝐞𝐫𝐚𝐜𝐭𝐢𝐨𝐧𝐬: Stone crushes Scissors, Scissors cuts Paper, and Paper covers Stone.<br>
+𝐒𝐭𝐫𝐚𝐭𝐞𝐠𝐢𝐜 𝐆𝐚𝐦𝐞𝐩𝐥𝐚𝐲: Players make simultaneous choices, and the winner is determined by the interactions between selected elements.<br>
+𝐃𝐞𝐜𝐢𝐬𝐢𝐨𝐧-𝐌𝐚𝐤𝐢𝐧𝐠 𝐅𝐮𝐧: Perfect for quick decisions and friendly competition.<br>
+
+𝐖𝐡𝐲 𝐒𝐭𝐨𝐧𝐞 𝐏𝐚𝐩𝐞𝐫 𝐒𝐜𝐢𝐬𝐬𝐨𝐫𝐬 ?
+
+🤔 Adds a strategic layer to the classic game.<br>
+🌐 Simple and accessible to people of all ages.<br>
+🤝 Promotes friendly competition and quick thinking.<br>
+
 # Demo 🎥
 https://github.com/Varunyadavgithub/Stone-Papaer-Scissor/assets/134674472/6e1ba84a-d09b-46f4-908d-60b393504027
