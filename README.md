@@ -1,4 +1,4 @@
-# Stone, Paper and Scissor Game. 🎮
+# Stone, Paper and Scissor Game. 🎮 [**🔗Live Link**](https://varunyadavgithub.github.io/Stone-Paper-Scissor/)
 
 The "Stone, Paper, Scissors" game is a simple hand game that is often used as a decision-making tool between two people. 
 Each participant simultaneously forms one of three shapes with their hand. In this game the computer will play as a scond
